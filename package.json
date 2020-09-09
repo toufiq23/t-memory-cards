@@ -1,0 +1,13 @@
+{
+  "name": "t-memory-cards",
+  "version": "1.0.0",
+  "description": "Flash card app for learning. Display, add and remove memory cards with questions and answers",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
